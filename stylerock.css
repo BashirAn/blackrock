@@ -1,0 +1,167 @@
+.headline{
+    background-color:#212529;
+    height: 50px
+}
+.cont{
+    width: 60% ;
+    margin: 0 auto
+}
+.nav .log {
+float: left;
+padding-top: 16px
+}
+.nav .linkler{
+    float: right
+}
+ul{
+    list-style: none;
+    display: inline;
+    display: flex;
+    margin-right: 10px
+}
+.nav a{
+color: white;
+font-size: 17px;
+margin-left: 10px;
+text-decoration: none
+}
+.welcome{
+    padding: 50px;
+    background-color:#e9ecef;
+    margin-top: 20px
+}
+.welcome span{
+    font-size: 45px;
+    font-weight: 500
+}
+.welcome a{
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 50px;
+    text-decoration: none;
+    background-color: #007bff;
+    border-color: #007bff
+}
+.welcome p{
+    margin: 27px 0 ;
+
+}
+#cardtitle1{
+    width: 23%;
+    text-align: center;
+    margin-top: 30px;
+    border: 1px solid rgb(233,229,229);
+    float: left;
+    margin-left: 0px
+
+}
+.cardtitle{
+    width: 23%;
+    text-align: center;
+    margin-top: 30px;
+    border:1px solid rgb(233,229,229);
+    float: left;
+    margin-left: 2.3%;
+}
+.cardtitle .photosize{
+    height: 100px;
+    background-color:#bcc0c4;
+    line-height: 100px;
+
+}
+.photosize{
+    padding: 30px
+}
+.cardtitle h6{
+    color: black;
+    font-size: 15px;
+    margin:5px 0
+}
+.cardtitle p{
+    font-size: 14px
+}
+.cardtitle .button{
+    padding: 15px;
+    background-color: rgb(224,219,203);
+
+}
+.cardtitle .button a {
+    color: white ;
+    padding: 7px 15px;
+    border-radius: 3px;
+    margin-top: 50px;
+    text-decoration: none;
+    background-color: #007bff;
+    border-color: #007bff
+}
+.bozyazi{
+    color: grey
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+h3{
+    text-align: center
+}
+.lor{
+    text-align: center
+}
+.sagdan{
+    text-align: right;
+    margin-right: 60%;
+    height: 100px;
+    position: absolute
+    
+}
+img{
+    border-radius: 50%;
+    height: 150px;
+  
+ 
+}
+.imagecircle{
+position: relative;
+left: 300px;
+padding: 20px
+}
+.soldan{
+    text-align: left;
+     height: 100px;
+position: relative;
+left: 570px;
+width: 35%
+    
+    
+
+}
+.image2{
+    margin-left: 22%;
+    position: absolute
+  
+}
+.size{
+    color: grey
+}
+.copyright{
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    padding: 30px
+}
+.serv{
+    display: none;
+    position: relative;
+    top:  55px
+    
+}
+li:hover .serv{
+    display:block;
+    position: absolute
+   
+}
+.az{
+    background-color: #212529;
+    color: white
+}
